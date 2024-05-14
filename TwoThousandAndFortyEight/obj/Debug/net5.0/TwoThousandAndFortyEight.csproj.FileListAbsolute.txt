@@ -1,0 +1,16 @@
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.csproj.AssemblyReference.cache
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.AssemblyInfoInputs.cache
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.AssemblyInfo.cs
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.csproj.CoreCompileInputs.cache
+C:\Users\ajedm\TwoThousandAndFortyEight\bin\Debug\net5.0\TwoThousandAndFortyEight.exe
+C:\Users\ajedm\TwoThousandAndFortyEight\bin\Debug\net5.0\TwoThousandAndFortyEight.deps.json
+C:\Users\ajedm\TwoThousandAndFortyEight\bin\Debug\net5.0\TwoThousandAndFortyEight.runtimeconfig.json
+C:\Users\ajedm\TwoThousandAndFortyEight\bin\Debug\net5.0\TwoThousandAndFortyEight.runtimeconfig.dev.json
+C:\Users\ajedm\TwoThousandAndFortyEight\bin\Debug\net5.0\TwoThousandAndFortyEight.dll
+C:\Users\ajedm\TwoThousandAndFortyEight\bin\Debug\net5.0\ref\TwoThousandAndFortyEight.dll
+C:\Users\ajedm\TwoThousandAndFortyEight\bin\Debug\net5.0\TwoThousandAndFortyEight.pdb
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.dll
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\ref\TwoThousandAndFortyEight.dll
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.pdb
+C:\Users\ajedm\TwoThousandAndFortyEight\obj\Debug\net5.0\TwoThousandAndFortyEight.genruntimeconfig.cache
